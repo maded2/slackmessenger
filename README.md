@@ -26,4 +26,4 @@ check process nginx with pidfile /var/run/nginx.pid
 
 ### Example Alert in Slack
 
-
+![alt example](https://github.com/maded2/slackmessenger/blob/master/example_alert.png "example")
