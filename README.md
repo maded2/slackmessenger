@@ -12,7 +12,9 @@ go get github.com/maded2/slackmessenger/...
 
 your slack Incoming WebHooks URL string should be stored in a plain text file somewhere secured on your server.
  
+```
 slackmsg <slack-url-file>
+```
 
 
 #### Monit config
